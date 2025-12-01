@@ -1,6 +1,6 @@
-# Parallel Programming Project  
-### CS4823 / CS6643 – Parallel Computing  
-### Author: Derick Gomez (JSD784)  
+#   Term Project
+### Parallel Programming  
+### Derick Gomez  
 ### Topic: Parallel Selection (k-th Smallest Element)
 
 ## 1. Project Overview
@@ -70,7 +70,7 @@ ParallelProgrammingProject/
     ├── momselect_omp.c
     ├── quickselect_mpi.c
     ├── momselect_mpi.c
-    └── selection_cuda.cu   (optional)
+    └── selection_cuda.cu
 
 ## 4. Building the Project
 
